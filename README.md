@@ -45,7 +45,7 @@
 
 | Splash Screen | Login | Dashboard |
 |---------------|-------|-----------|
-| ![Splash Screen]("Desktop\SplashScreen.jpg) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Splash Screen](Desktop\SplashScreen.jpg) | ![Login]("C:\Users\pavan\OneDrive\Desktop\SplashScreen.jpg") | ![Dashboard](screenshots/dashboard.png) |
 
 | Patient Records | Appointments | Prescriptions |
 |-----------------|--------------|---------------|
