@@ -41,11 +41,11 @@
 - SMS Sending
 - Internet Access
 
-  ## 📸 App Screenshots
+## 📸 App Screenshots
 
 | Splash Screen | Login | Dashboard |
 |---------------|-------|-----------|
-| ![Splash Screen](screenshots/splash_screen.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Splash Screen]("Desktop\SplashScreen.jpg) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
 | Patient Records | Appointments | Prescriptions |
 |-----------------|--------------|---------------|
