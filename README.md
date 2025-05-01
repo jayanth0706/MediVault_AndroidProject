@@ -41,6 +41,21 @@
 - SMS Sending
 - Internet Access
 
+  ## 📸 App Screenshots
+
+| Splash Screen | Login | Dashboard |
+|---------------|-------|-----------|
+| ![Splash Screen](screenshots/splash_screen.png) | ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+
+| Patient Records | Appointments | Prescriptions |
+|-----------------|--------------|---------------|
+| ![Patient Records](screenshots/patient_records.png) | ![Appointments](screenshots/appointments.png) | ![Prescriptions](screenshots/prescriptions.png) |
+
+| Lab Reports | Profile | Settings |
+|-------------|---------|----------|
+| ![Lab Reports](screenshots/lab_reports.png) | ![Profile](screenshots/profile.png) | ![Settings](screenshots/settings.png) |
+
+
 ## 📄 Conclusion
 
 MediVault empowers doctors with a digital tool to manage patient records, appointments, prescriptions, and lab reports in one place. With local data storage, SMS integration, and a user-friendly interface, the app is a practical solution for modern medical practice.
