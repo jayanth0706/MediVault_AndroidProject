@@ -63,7 +63,7 @@ MediVault empowers doctors with a digital tool to manage patient records, appoin
 ---
 
 **Developed by:**
-- Pavanagundla Jayanth (Reg No: 12200751)
+- Pavanagundla Jayanth [Team Led] (Reg No: 12200751)
 - Ponnu Jagadesh Reddy (Reg No: 12222949)
 - Aelagonda Eshwar Teja (Reg No: 12214614)
 
