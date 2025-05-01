@@ -49,11 +49,11 @@
 
 | Patient Records | Appointments | Prescriptions |
 |-----------------|--------------|---------------|
-| ![Patient Records](photos/Patient Records.jpg) | ![Appointments](screenshots/appointments.png) | ![Prescriptions](screenshots/prescriptions.png) |
+| ![Patient Records](photos/PatientRecords.jpg) | ![Appointments](photos/appointments.jpg) | ![Prescriptions](photos/prescriptions.jpg) |
 
 | Lab Reports | Profile | Settings |
 |-------------|---------|----------|
-| ![Lab Reports](screenshots/lab_reports.png) | ![Profile](screenshots/profile.png) | ![Settings](screenshots/settings.png) |
+| ![Lab Reports](photos/lab_reports.jpg) | ![Profile](photos/profile.jpg) | ![Settings](photos/settings.jpg) |
 
 
 ## 📄 Conclusion
