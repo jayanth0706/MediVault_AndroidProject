@@ -45,11 +45,11 @@
 
 | Splash Screen | Login | Dashboard |
 |---------------|-------|-----------|
-| ![Splash Screen](app/SplashScreen.jpg) | ![Login]("C:\Users\pavan\OneDrive\Desktop\SplashScreen.jpg") | ![Dashboard](screenshots/dashboard.png) |
+| ![Splash Screen](photos/SplashScreen.jpg) | ![Login](photos/Login.jpg) | ![Dashboard](photos/Dashboard.jpg) |
 
 | Patient Records | Appointments | Prescriptions |
 |-----------------|--------------|---------------|
-| ![Patient Records](screenshots/patient_records.png) | ![Appointments](screenshots/appointments.png) | ![Prescriptions](screenshots/prescriptions.png) |
+| ![Patient Records](photos/Patient Records.jpg) | ![Appointments](screenshots/appointments.png) | ![Prescriptions](screenshots/prescriptions.png) |
 
 | Lab Reports | Profile | Settings |
 |-------------|---------|----------|
